@@ -1,2 +1,2 @@
 # hello-world-c
-To explore GitHub and store my hello-world c program
+To explore GitHub using my hello-world c program
