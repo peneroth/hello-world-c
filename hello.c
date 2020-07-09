@@ -1,3 +1,5 @@
+// Simple hello world program used to explore github
+
 #include <stdio.h>
 
 int main(){
