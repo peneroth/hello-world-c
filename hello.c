@@ -1,4 +1,5 @@
 // Simple hello world program used to explore github
+// New comment line, test purpose!
 
 #include <stdio.h>
 
